@@ -39,7 +39,7 @@ Constraints:
 0 <= x <= 105
  */
 
-public class ProblemOne {
+public class Problem_1 {
     
     public static void main(String[] args) {
 
